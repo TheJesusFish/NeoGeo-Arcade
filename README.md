@@ -25,4 +25,4 @@ Once the script has finished running, you will find a `NeoGeo MGLs` folder in th
 Yes, but the script is cleaner because it will use your folder structure instead of mine.
 
 ## Liner Notes
-This script was written by an idea guy and a machine. If that bothers you, neither author gives a shit.
+This script was written by an ideas guy and a machine. If that bothers you, neither author gives a shit.
